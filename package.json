@@ -13,9 +13,9 @@
   "author": "Aleksey Pozyrko",
   "license": "MIT",
   "dependencies": {
-    "electron": "^4.0.1"
+    "electron": "^4.0.2"
   },
   "devDependencies": {
-    "electron-packager": "^14.0.1"
+    "electron-packager": "^13.0.1"
   }
 }
